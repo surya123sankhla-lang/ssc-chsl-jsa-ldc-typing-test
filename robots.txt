@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://surya123sankhla-lang.github.io/ssc-chsl-jsa-ldc-typing-test/sitemap.xml
